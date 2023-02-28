@@ -141,6 +141,9 @@ trainer.model.load_check_point(device=trainer.device)
 print(trainer.evaluate(None))
 ```
 
+## Performance limitation of this model release
+This released model is a demonstrated only model that was trained on clean WSJ0-2mix dataset. Due to the small amount of this training dataset, the released model maybe not perform as expected for other testing dataset, espectially, the noisy and reverberant mixtures. We will update to a more general model support realistic recordings later.
+
 For more details, please refer to the related paper below:
 
 ```
