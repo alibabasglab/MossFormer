@@ -1,5 +1,8 @@
 # MossFormer: Pushing the Performance Limit of Monaural Speech Separation using Gated Single-head Transformer with Convolution-augmented Joint Self-Attentions
 
+Please move to [ClearerVoice-Studio](https://github.com/modelscope/ClearerVoice-Studio) for our most latest developments for speech front-end processing platform!!
+--
+
 This repository provides the processed samples and information for **MossFormer** monaural speech separation model. It can be retrained and evaluated based on <a href="https://www.modelscope.cn/models/damo/speech_mossformer_separation_temporal_8k/summary">ModelScope open source platform</a>. The users can either go to the <a href="https://www.modelscope.cn/models/damo/speech_mossformer_separation_temporal_8k/summary">ModelScope website</a> or follow the steps given below to downloand and install the full pytorch version of MossFormer program. The main model structure was proposed in <a href="https://arxiv.org/abs/2302.11824">MossFormer: Pushing the Performance Limit of Monaural Speech Separation using Gated Single-head Transformer with Convolution-augmented Joint Self-Attentions</a>.  
 
 ## Model Description
